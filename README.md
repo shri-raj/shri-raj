@@ -56,7 +56,7 @@ public class Shriraj {
 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shri-raj&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shri-raj&theme=tokyonight&hide_border=false)<br/> -->
-<img align="middle" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3IyZGxjMWxud3oyeWs5Y24zZjJmOWI2NjhwNTJ5ODQycW5qemYzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gO2qJJs29aw0/giphy.gif" width="200">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3IyZGxjMWxud3oyeWs5Y24zZjJmOWI2NjhwNTJ5ODQycW5qemYzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gO2qJJs29aw0/giphy.gif" width="200">
 <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shri-raj&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
