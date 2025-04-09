@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Shriraj Patil 👋</h2>
 <p align="center">
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile+ 😊;Java+Developer+☕,+ Machine+Learning+🤖"/></a>
+  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile+ 😊;Java+Dev+☕,+ Machine+Learning+🤖"/></a>
 </p>
 <p align="center">
 <img align="middle" alt="GIF" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" />
